@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Thiago Ferreira Alencar
 
 🎓 Estudante de **Sistemas de Informação** na UFRA  
-💻 Interessado em **Back-end, Automação, Banco de Dados e Game Dev**  
+💻 Interessado em **Analise de Dados, Automação, Banco de Dados e Game Dev**  
 🌱 Atualmente aprendendo **Java, Python e JavaScript**  
 🚀 Buscando minha primeira oportunidade em **TI/Desenvolvimento**  
 
