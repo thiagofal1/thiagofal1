@@ -1,12 +1,9 @@
 ## 👋 Olá, eu sou o Thiago Ferreira Alencar
 
-🎓 Estudante de Sistemas de Informação na UFRA
-
-💚 Estagiário de Tecnologia da Informação na Vale
-
-💻 Interessado em Análise de Dados, Automação, Banco de Dados e Desenvolvimento de Software
-
-🌱 Atualmente me especializando em Python, JavaScript e PowerPlataform.
+- 🎓 Estudante de Sistemas de Informação na UFRA
+- 💚 Estagiário de Tecnologia da Informação na Vale
+- 💻 Interessado em Análise de Dados, Automação, Banco de Dados e Desenvolvimento de Software
+- 🌱 Atualmente me especializando em Python, JavaScript e PowerPlataform.
 
 ---
 
