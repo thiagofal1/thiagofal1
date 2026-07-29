@@ -1,19 +1,17 @@
-# 👋 Olá, eu sou o Thiago Ferreira Alencar
+## 👋 Olá, eu sou o Thiago Ferreira Alencar
 
-🎓 Estudante de **Sistemas de Informação** na UFRA  
-💻 Interessado em **Analise de Dados, Automação, Banco de Dados e Game Dev**  
-🌱 Atualmente aprendendo **Java, Python e JavaScript**  
-🚀 Buscando minha primeira oportunidade em **TI/Desenvolvimento**  
+-🎓 Estudante de Sistemas de Informação na UFRA
+-💚 Estagiário de Tecnologia da Informação na Vale
+-💻 Interessado em Análise de Dados, Automação, Banco de Dados e Desenvolvimento de Software
+-🌱 Atualmente me especializando em Python, JavaScript e PowerPlataform.
 
 ---
 
 ## 🔧 Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
 
 ---
 
