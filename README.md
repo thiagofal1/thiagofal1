@@ -203,6 +203,35 @@ Gravador de tela direto do navegador, sem instalações ou uploads, com processa
 </td>
 
 </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>
+  <a href="https://github.com/thiagofal1/spotifyFamily">🟡 SPOTIFY FAMILY</a>
+</h3>
+
+<p>
+  <code>STATUS: CASE DE AUTOMAÇÃO</code>
+</p>
+
+<p>
+Case de automação local integrando n8n, Docker, Google Sheets e Evolution API para organizar pagamentos e notificações.
+</p>
+
+<p>
+<code>n8n · Docker · Google Sheets · Evolution API</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<br>
+
+</td>
+
+</tr>
 </table>
 
 <br>
