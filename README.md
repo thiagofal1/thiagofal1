@@ -160,6 +160,49 @@ Clone jogável desenvolvido com Phaser. Clique ou pressione espaço para voar e 
 </td>
 
 </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>
+  <a href="https://github.com/thiagofal1/inventory-control">🟡 INVENTORY CONTROL</a>
+</h3>
+
+<p>
+  <code>STATUS: CONCLUÍDO</code>
+</p>
+
+<p>
+Aplicativo de controle de estoque desenvolvido em Power Apps, com integração SharePoint e lógica em Power Fx.
+</p>
+
+<p>
+<code>Power Apps · SharePoint · Power Fx</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>
+  <a href="https://captura.thigasfal.dev">🟢 CAPTURA</a>
+</h3>
+
+<p>
+  <code>STATUS: EM DESENVOLVIMENTO</code>
+</p>
+
+<p>
+Gravador de tela direto do navegador, sem instalações ou uploads, com processamento local e foco em privacidade.
+</p>
+
+<p>
+<code>HTML5 · CSS3 · JavaScript</code>
+</p>
+
+</td>
+
+</tr>
 </table>
 
 <br>
